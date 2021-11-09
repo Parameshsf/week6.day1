@@ -8,3 +8,5 @@ Then home page should be displayed
 When click CRMSFA link to get in to Home page
 And click Leads tab
 And click Create Lead link  
+And enter the values in the Create Lead Page
+And click Create Lead button on the create lead page 
